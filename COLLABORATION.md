@@ -2,7 +2,7 @@
 
 GitHub makes it easier for developers to work together on projects.
 
-## Pull Request Workflows 
+## Pull Request Workflow
 
 1. Create a new branch.
 2. Make your changes.
